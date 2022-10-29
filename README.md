@@ -24,7 +24,7 @@ This code solves short term wind power prediction problem using multiple samplin
 
 ## Data
 
-Since the github cannot process the data larger than 4GB, please download the file 'data_wf1_7s' from this [google drive link](https://drive.google.com/file/d/1uh96xI-KL4ANGpqi0QqPLscFYzLZibHY/view?usp=sharing), and place it to the folder 'wf1'.
+Since the github cannot process the data larger than 4GB, please download the files 'data_wf1_7s' from this [google drive link](https://drive.google.com/file/d/1uh96xI-KL4ANGpqi0QqPLscFYzLZibHY/view?usp=sharing) and 'data_wf1_10min' from this [google drive link](https://drive.google.com/file/d/1TVr2rd4eGP3DP8FeWNWYoNpcifrpZWDn/view?usp=sharing), and place them to the folder 'wf1'.
 
 
 
