@@ -2,10 +2,11 @@
 This code solves short term wind power prediction problem using multiple sampling resolution data. For more details, please see our paper [A Bilateral Branch Learning Paradigm for Short Term Wind Power Prediction with Data of Multiple Sampling Resolutions](https://ieeexplore.ieee.org/abstract/document/9537638) which has been accepted at JCLP. If this code is useful for your work, please cite our paper:
 
 ```
-@article{liu2022solving,
-  title={A Bilateral Branch Learning Paradigm for Short Term Wind Power Prediction with Data of Multiple Sampling Resolutions },
+@article{liu2022bilateral,
+  title={A bilateral branch learning paradigm for short term wind power prediction with data of multiple sampling resolutions},
   author={Liu, Hong and Zhang, Zijun},
-  journal={Journal of cleaner production},
+  journal={Journal of Cleaner Production},
+  pages={134977},
   year={2022},
   publisher={Elsevier}
 }
