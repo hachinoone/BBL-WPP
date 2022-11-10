@@ -1,5 +1,5 @@
 # BBL-WPP
-This code solves short term wind power prediction problem using multiple sampling resolution data. For more details, please see our paper [A Bilateral Branch Learning Paradigm for Short Term Wind Power Prediction with Data of Multiple Sampling Resolutions](https://ieeexplore.ieee.org/abstract/document/9537638) which has been accepted at JCLP. If this code is useful for your work, please cite our paper:
+This code solves short term wind power prediction problem using multiple sampling resolution data. For more details, please see our paper [A Bilateral Branch Learning Paradigm for Short Term Wind Power Prediction with Data of Multiple Sampling Resolutions](https://www.sciencedirect.com/science/article/abs/pii/S0959652622045504) which has been accepted at JCLP. If this code is useful for your work, please cite our paper:
 
 ```
 @article{liu2022bilateral,
